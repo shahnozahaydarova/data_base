@@ -1,1 +1,1 @@
-<img src="db.py">
+<img src="db.jpg">
